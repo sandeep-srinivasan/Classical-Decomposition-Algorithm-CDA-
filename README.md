@@ -1,5 +1,3 @@
-# Classical-Decomposition-Algorithm (CDA)
-
 # Classical Decomposition Algorithm (CDA) upon a time series 
 
 Performed the classical decomposition algorithm (CDA) upon a time series of monthly temperatures recorded in Columbus, OH from January 1995 to December 2005. The units of measurement is Fahrenheit. The plot of this time series is,
